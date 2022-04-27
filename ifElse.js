@@ -132,3 +132,52 @@ num = 1001
 
 // Activity 7
 // Create a variable called time, a variable called placeOfWork and a variable called townOfHome. Create an if statement that logs to the console where someone is at times of the day. E.g. if the time is 7 I’m at home, at 8 I’m commuting, at 9 I’m at work. 
+
+// let time = 11
+// let placeOfWork = "Codenation"
+// let townOfHome = "Manchester"
+
+// if (time == 7) {
+//     console.log(`I am at home in ${townOfHome}`)
+    
+// } else if (time == 8) {
+//     console.log(`I am commuting to work at ${placeOfWork}`)
+    
+// } else if (time == 9) {
+//     console.log(`I am at work at ${placeOfWork}`)
+
+// } else {
+//     console.log("I'm chilling at home")
+// }
+
+
+//------------------------------------------------------------------------------------------------------------------------
+
+//Activity 8
+// Take the string “jrfndklhgfndjkjlkgperfijfhdknsadcvjhiiohjfkledsopiuhgtyujwsdxcvhgfdjhiopiwquhejkdsoiufghedjwshi”. Find the index of a last vowel in the string.
+
+let string = "jrfndklhgfndjkjlkgperfijfhdknsadcvjhiiohjfkledsopiuhgtyujwsdxcvhgfdjhiopiwquhejkdsoiufghedjwshi"
+let vowel = ['a', 'e', 'i', 'o', 'u']
+
+//---------------------------------------------------------------------------------------------------------------------
+
+// Activity 9
+
+
+//------------------------------------------------------------------------------------------------------------------------
+
+//Activity 10
+// Create two variables called num1 and num2. Create an if statement that checks if the result of the sum is even. If it is return the number, otherwise return the numbers multiplied together.
+
+// let num1 = 2
+// let num2 = 5
+// let total = num1 + num2
+
+// if (total % 2 ==0) {
+//     console.log(`The sum of the two numbers is ${num1 + num2} and is even`)
+    
+// } else {
+//     console.log(`${num1 * num2}`)
+    
+    
+// }
